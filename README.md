@@ -44,9 +44,9 @@ Para aprender mais sobre como desenvolver projetos de Data Science, AI, Criaçã
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/676745786)
 
 
-✉ contato@asimov.academy
+✉ ltecslet@gmail.com
 
 
 
 
-<p align="center">Copyright © 2022 Asimov Academy</p>
+<p align="center">Copyright © 2023 leo-silima</p>
